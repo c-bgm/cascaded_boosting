@@ -1,0 +1,8 @@
+# A demo for cascaded boosting
+
+Requirement:
+    python3.6
+    pytorch
+    matplotlib
+    skimage
+    sklearn
